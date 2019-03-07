@@ -1,0 +1,19 @@
+button.waves-effect.teal.lighten-3.btn-large, .waves-effect.pink.accent-1.btn-large {
+  margin-top: 2rem;
+  margin-right: 1rem;
+}
+
+h2 {
+
+  font-family: 'Crimson Text', serif;
+}
+
+p.center {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
